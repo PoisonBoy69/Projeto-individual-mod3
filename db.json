@@ -1,0 +1,13 @@
+{
+    "livros": [
+        {
+            "id":1,
+            "titulo":"autoajuda",
+            "genere": "maluquice",
+            "autor": "Leadrinha Du'Art"
+        },
+        {
+            
+        }
+    ]
+}
