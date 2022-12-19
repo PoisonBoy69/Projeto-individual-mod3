@@ -7,7 +7,79 @@
             "autor": "Leadrinha Du'Art"
         },
         {
-            
+            "id":2,
+            "titulo":"biblia",
+            "genere":"maluquice" ,
+            "autor":"deus"            
+        },
+        {
+            "id":3,
+            "titulo":"tarot",
+            "genere":"maluquice" ,
+            "autor":"cigana"
+        },
+        {
+            "id":4,
+            "titulo":"militancia trans",
+            "genere": "militancia",
+            "autor":"Leadrinha Du'Art"
+        }
+    ],
+
+
+    "Mangas":[
+        {
+            "id":1,
+            "titulo":"naruto",
+            "genere":"shounen",
+            "autor":"Masaki Kishimoto"
+        },
+        {
+            "id":2,
+            "titulo":"kuroshitsuji",
+            "genere":"yaoi",
+            "autor":"Yana Toboso"
+        },
+        {
+            "id":3,
+            "titulo":"sakura card captors",
+            "genere":"shoujo",
+            "autor":"CLAMP"
+        },
+        {
+            "id":4,
+            "titulo":"one piece",
+            "genere":"shounen",
+            "autor":"eichiro oda"
+        }
+    ],
+
+
+
+    "funcionarios": [
+        {
+            "id":1,
+            "nome":"mona",
+            "genere":"não" ,
+            "contato":"mona@gaymail.com"
+        },
+        {
+            "id":2,
+            "nome":"monara",
+            "genere":"cisgenera" ,
+            "contato":"cisnegra@hotomail.com"
+        },
+        {
+            "id":3,
+            "nome":"momo",
+            "genere":"sim",
+            "contato":"twice@dummy.com"
+        },
+        {
+            "id":4,
+            "nome":"lp",
+            "genere":"afeminade",
+            "contato":"grindr em copacabana"
         }
     ]
 }

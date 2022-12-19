@@ -1,0 +1,14 @@
+{
+    "GET /livros": "GET/livros/get",
+    "POST /livros": "POST/livros/create",
+    "PUT /livros": "PUT/livros/update",
+    "DELETE /livros": "DELETE/livros/delete",
+    "GET /mangas": "GET/mangas/get",
+    "POST /mangas": "POST/mangas/create",
+    "PUT /mangas": "PUT/mangas/update",
+    "DELETE /mangas": "DELETE/mangas/delete",
+    "GET /funcionarios": "GET/funcionarios/get",
+    "POST /funcionarios": "POST/funcionarios/create",
+    "PUT /funcionarios": "PUT/funcionarios/update",
+    "DELETE /funcionarios": "DELETE/funcionarios/delete"
+}
